@@ -38,14 +38,14 @@ micro:bit作为一款高度集成化、尺寸小巧、携带方便、功能强�
 
 |编码|规格型号|数量|图片|
 |-|-|-|-|
-|1|keyestudio Micro:bit mini smart robot car 扩展板V2黑色环保|1|![](media/c59320656db3ef33f904aba2cebe8104.png)|
+|1|keyes Micro:bit mini smart robot car 扩展板V2黑色环保|1|![](media/c59320656db3ef33f904aba2cebe8104.png)|
 |2|HC-SR04超声波传感器|1|![](media/7d1365ccda9dfeff4ba6624f9413877c.png)|
 |3|KEYES-2812-18R模块（焊黄色弯针）|1|![](media/75a3a53f6230d6adc83af7caca154c03.png)|
 |4|micro：bit 主板|1|![](media/5763dc1f8f1ad98ae27a231654906795.png)![](media/f499db4caac65277ceac4615fcfd7919.png)|
 
 
 结构部分
-|4|keyestudio Micro：bit mini smart robot car kit V2亚克力套件3片T=3MM|1|![](media/fdb34b01a15794156074815cdbe8d483.png)![](media/10c99e018e78e8413ca6ca3586e44808.png)![](media/361681b061f5f5fb86fb881c53b49b0a.png)|
+|4|keyes Micro：bit mini smart robot car kit V2亚克力套件3片T=3MM|1|![](media/fdb34b01a15794156074815cdbe8d483.png)![](media/10c99e018e78e8413ca6ca3586e44808.png)![](media/361681b061f5f5fb86fb881c53b49b0a.png)|
 |-|-|-|-|
 |5|N20马达专用车轮直径：43mm 宽度：19mm 孔径：3mm D型孔 ABS塑料+橡胶黄色|2|![](media/401c266d4f7828b0087fcdae7b75664d.png)|
 |6|Arduino 3PI miniQ小车万向球 304不锈钢 W22*H15MM|1|![](media/8a89cf0066a0982aba60f9df94e0d108.png)|
